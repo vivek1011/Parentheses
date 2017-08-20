@@ -7,4 +7,6 @@ So that string must be balanced in this segment and hence overall segment .
 Find longest balanced brackets subsequence in a range . 
 http://codeforces.com/problemset/problem/380/C 
 
+this is just useless comment.!
+
 
